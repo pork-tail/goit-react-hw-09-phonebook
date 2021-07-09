@@ -1,0 +1,46 @@
+.header {
+  margin: 0 100px;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 50px;
+}
+
+.navigation {
+  margin-right: 20px;
+
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.navigation:hover {
+  color: rgb(151, 224, 194);
+}
+
+.navigationSec {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.userMenu {
+  font-size: 18px;
+}
+
+.navigationSec:hover {
+  color: rgb(151, 224, 194);
+}
+
+.btn {
+  padding: 4px;
+  margin-left: 20px;
+  font-size: 18px;
+  width: 120px;
+  font-size: 20px;
+  font-weight: 800;
+  background-color: rgb(151, 224, 194);
+  border: none;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  background-color: rgb(138, 240, 197);
+}
